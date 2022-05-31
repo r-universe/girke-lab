@@ -18,16 +18,6 @@
 	url = https://github.com/girke-lab/chemminer
 	shallow = true
 	registered = true
-[submodule "customCMPdb"]
-	path = customCMPdb
-	url = https://github.com/girke-lab/customcmpdb
-	shallow = true
-	registered = true
-[submodule "drugTargetInteractions"]
-	path = drugTargetInteractions
-	url = https://github.com/girke-lab/drugtargetinteractions
-	shallow = true
-	registered = true
 [submodule "eiR"]
 	path = eiR
 	url = https://github.com/girke-lab/eir
