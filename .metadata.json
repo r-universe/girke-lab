@@ -1,20 +1,8 @@
 [
   {
-    "package": "bioassayR"
-  },
-  {
     "package": "ChemmineOB"
   },
   {
     "package": "ChemmineR"
-  },
-  {
-    "package": "eiR"
-  },
-  {
-    "package": "fmcsR"
-  },
-  {
-    "package": "signatureSearch"
   }
 ]
