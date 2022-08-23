@@ -9,6 +9,12 @@
     "package": "ChemmineR"
   },
   {
+    "package": "customCMPdb"
+  },
+  {
+    "package": "drugTargetInteractions"
+  },
+  {
     "package": "eiR"
   },
   {
