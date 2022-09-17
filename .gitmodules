@@ -38,8 +38,3 @@
 	url = https://github.com/girke-lab/fmcsr
 	shallow = true
 	registered = true
-[submodule "signatureSearch"]
-	path = signatureSearch
-	url = https://github.com/girke-lab/signaturesearch
-	shallow = true
-	registered = true
