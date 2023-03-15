@@ -1,24 +1,24 @@
 [
   {
-    "package": "bioassayR"
+    "package": "eiR"
   },
   {
     "package": "ChemmineOB"
   },
   {
-    "package": "ChemmineR"
-  },
-  {
-    "package": "customCMPdb"
-  },
-  {
     "package": "drugTargetInteractions"
   },
   {
-    "package": "eiR"
+    "package": "ChemmineR"
   },
   {
     "package": "fmcsR"
+  },
+  {
+    "package": "bioassayR"
+  },
+  {
+    "package": "customCMPdb"
   },
   {
     "package": "signatureSearch"

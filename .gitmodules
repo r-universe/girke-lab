@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bioassayR"]
-	path = bioassayR
-	url = https://github.com/girke-lab/bioassayr
+[submodule "eiR"]
+	path = eiR
+	url = https://github.com/girke-lab/eir
 	shallow = true
 	registered = true
 [submodule "ChemmineOB"]
@@ -13,29 +13,29 @@
 	url = https://github.com/girke-lab/chemmineob
 	shallow = true
 	registered = true
-[submodule "ChemmineR"]
-	path = ChemmineR
-	url = https://github.com/girke-lab/chemminer
-	shallow = true
-	registered = true
-[submodule "customCMPdb"]
-	path = customCMPdb
-	url = https://github.com/girke-lab/customcmpdb
-	shallow = true
-	registered = true
 [submodule "drugTargetInteractions"]
 	path = drugTargetInteractions
 	url = https://github.com/girke-lab/drugtargetinteractions
 	shallow = true
 	registered = true
-[submodule "eiR"]
-	path = eiR
-	url = https://github.com/girke-lab/eir
+[submodule "ChemmineR"]
+	path = ChemmineR
+	url = https://github.com/girke-lab/chemminer
 	shallow = true
 	registered = true
 [submodule "fmcsR"]
 	path = fmcsR
 	url = https://github.com/girke-lab/fmcsr
+	shallow = true
+	registered = true
+[submodule "bioassayR"]
+	path = bioassayR
+	url = https://github.com/girke-lab/bioassayr
+	shallow = true
+	registered = true
+[submodule "customCMPdb"]
+	path = customCMPdb
+	url = https://github.com/girke-lab/customcmpdb
 	shallow = true
 	registered = true
 [submodule "signatureSearch"]
