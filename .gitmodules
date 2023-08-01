@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bioassayR"]
-	path = bioassayR
-	url = https://github.com/girke-lab/bioassayr
 [submodule "ChemmineOB"]
 	path = ChemmineOB
 	url = https://github.com/girke-lab/chemmineob
 [submodule "ChemmineR"]
 	path = ChemmineR
 	url = https://github.com/girke-lab/chemminer
+[submodule "bioassayR"]
+	path = bioassayR
+	url = https://github.com/girke-lab/bioassayr
 [submodule "customCMPdb"]
 	path = customCMPdb
 	url = https://github.com/girke-lab/customcmpdb
